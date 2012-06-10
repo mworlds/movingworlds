@@ -2,13 +2,13 @@
 # Usage: http://ruhoh.com/usage/configure/ 
 
 RuhohSpec: '1.0'
-theme : twitter
-production_url : http://sample.com
+theme : movingworlds
+production_url : http://www.movingworlds.com
 
 posts:
   permalink: /:categories/:title/
   summary_lines: 20
-  latest: 10
+  latest: 1
 
 pages:
   permalink: 'pretty'

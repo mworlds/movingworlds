@@ -1,0 +1,13 @@
+---
+layout : default
+---
+
+
+<div class="span-15">
+  <h3>{{ page.title }}</h3>
+   {{# page.tagline }}
+    <h4>{{ . }}</h4>
+   {{/ page.tagline }}
+  
+{{{ content }}}
+</div>

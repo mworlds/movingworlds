@@ -1,19 +1,18 @@
 ---
 description:
-title: Concepts
 ---
 
 <ul class="tag_box inline">
-{{# categories }}
+{{# tags }}
   {{> categories_list }}
-{{/ categories }}
+{{/ tags }}
 </ul>
 
-{{# categories }}
+{{# tags }}
   <h2 id="{{name}}-ref">{{name}} ({{ count }})</h2>
   <ul>
     {{# posts?to_posts }}
       {{> posts_list }}
     {{/ posts?to_posts }}
   </ul>
-{{/ categories }}
+{{/ tags }}

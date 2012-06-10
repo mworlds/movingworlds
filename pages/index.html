@@ -1,26 +1,51 @@
 ---
 title: Home
 description:
+layout: default
 ---
 
-<h2>Start</h2>
-<p>
-  Ruhoh is all about the command-line.
-  <br>Check out the goods:
-</p>
-<pre><code>$ ruhoh help</code></pre>
+<div class="span-8 colborder">
+	
+	{{# posts_latest }}
+	
+	  <h3>{{title}}</h3>
+	  <a href="{{url}}">
+  			<img src="{{urls.media}}/volumes/{{title}}__Cover.jpg">
+  			<h6>Volume 11 Number 2</h6>
+  			<p>{{title}}</p>
+  	</a>
+	
+	{{/ posts_latest}}
+	
+	<p><fb:like-box href="http://www.facebook.com/pages/Moving-Worlds/146855128711860" width="331" show_faces="true" border_color="" stream="true" header="true"></fb:like-box></p>
+	
+	<hr>
+		
+	<h3>Future Issues</h3>
+  <p class="alt top last">(All titles subject to confirmation)</p>
+  <ul>
+    <li>Asylum Accounts</li>
+    <li>Crime Across Cultures</li> 
+    <li>Postcolonial Cities (2): South Asia</li>
+  </ul>
 
-
-<h2>Latest Posts</h2>
-
-{{# posts_latest }}
-<div class="post">
-  <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
-
-  {{{ summary }}}
-
-  <div class="more">
-    <a href="{{url}}" class="btn">read more..</a>
-  </div>
+   <hr class="space">
 </div>
-{{/ posts_latest }}
+
+
+<div class="span-10 last">
+  <h3>Previous Issues</h3>
+
+  {{# posts?to_previous_issues }}
+    
+  <div class="span-3">
+  	<a href="{{url}}" title="{{title}}">
+  	  <img src="{{urls.media}}/volumes/{{title}}.jpg">
+  	</a>
+  </div>
+  
+  {{/ posts?to_previous_issues }}
+
+  <hr class="space">
+
+  	</div>

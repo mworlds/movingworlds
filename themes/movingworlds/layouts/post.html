@@ -1,0 +1,70 @@
+---
+layout : default
+---
+
+<div class="span-19 last">
+		
+	{{# page.buying}}
+	<div class="push-1">
+	  <h3>Purchase online:</h3>	  
+	  {{# page.buying.institutions }}
+	    <a class="external" href="{{ . }}" title="{{page.catalog}}  for Institutions">Institutions</a> |
+	  {{/ page.buying.institutions }}
+
+	  {{# page.buying.individuals }}
+	  <a class="external" href="{{ . }}" title="{{page.catalog}}  for Individuals">Individuals</a> |
+	  {{/ page.buying.individuals }}
+
+	  {{# page.buying.unwaged }}
+	  <a class="external" href="{{ . }}" title="{{page.catalog}}  for Students/Unwaged">Students/Unwaged</a>
+	  {{/ page.buying.unwaged }}
+	</div>
+	{{/ page.buying}}
+
+{{^ page.title-override}}
+<h1>{{ page.title }}</h1>
+{{/ page.title-override}}
+
+{{# page.title-override}}
+<h1>{{ . }}</h1>
+{{/ page.title-override}}
+
+<h3>{{ page.catalog }}</h3>
+
+<hr>
+
+<img class="push-1" alt="{{page.title}}" src="{{urls.media}}/volumes/{{page.title}}__Cover.jpg">
+
+<p><fb:like width="400" layout="box_count"></fb:like></p>
+
+  {{# page.description }}
+    <h5>Description</h5>
+    <p>{{ . }}</p>
+  {{/ page.description }}
+
+  {{{ content }}}		
+	
+	<div class="pagination">
+    <ul>
+      <ul>
+        {{# page?previous }}
+          <li class="prev"><a href="{{ url }}" title="{{ title }}">&larr; Previous - {{ title }}</a></li>
+        {{/ page?previous }}
+        {{^ page?previous }}
+          <li class="prev disabled"><a>&larr; Previous</a></li>
+        {{/ page?previous }}
+
+          <li><a href="/archive">Archive</a></li>
+
+        {{# page?next }}
+          <li class="next"><a href="{{ url }}" title="{{ title }}">Next - {{ title }} &rarr;</a></li>
+        {{/ page?next }}
+        {{^ page?next }}
+          <li class="next disabled"><a>Next &rarr;</a>
+        {{/ page?next }}
+      </ul>
+    </ul>
+  </div>
+  
+</div>
+

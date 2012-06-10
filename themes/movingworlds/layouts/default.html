@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} - Moving Worlds | A Journal of Transcultural Writings</title>
+  {{# page.description }}
+    <meta name="description" content="{{ . }}">
+  {{/ page.description }}
+    <meta name="author" content="{{ site.author.name }}">
+
+    {{# page.description }}
+    <meta property='og:title' content='{{ page.title }}' /><meta property='og:type' content='book' />
+    <meta property='og:url' content='{{ site.config.production_url }}{{ page.url }}' />
+    <meta property='og:image' content='{{ site.config.production_url }}{{urls.media}}/volumes/{{page.title}}__Cover.jpg' />
+    <meta property='og:site_name' content='Moving Worlds - A Journal of Transcultural Writings' />
+    <meta property='fb:admins' content='750761210,586043660' />
+    <meta property='og:description' content="{{ . }}"/>
+    {{/ page.description }}
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    {{{ assets }}} 
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+  </head>
+
+  <body>
+ 
+    <div class="container">
+     
+      <div id="header">
+      <div class="push-1" id="logo-callout">
+        <h4 class="alt">UNIVERSITY OF LEEDS with<br>  NANYANG TECHNOLOGICAL UNIVERSITY</h4>
+      </div>
+      <h1><a href="/">Moving Wor<span>l</span>ds</a></h1>
+      <h2 class="alt">A Journal of Transcultural Writings</h2>
+      <h4 class="alt">Celebrating the diversity and richness of both local and global transcultural communities</h4>
+      <hr>
+      </div>
+      
+      <div class="span-4 colborder">
+        <div id="menu">
+          <ul>
+          {{# site.navigation?to_pages }}
+          
+             <li {{# is_active_page }} class="selected" {{/ is_active_page }}><a href="{{url}}">{{title}}</a></li>
+           {{/ site.navigation?to_pages }}
+          </ul>
+        </div>
+      </div>
+     
+      {{{ content }}}
+
+      <hr />
+
+      <footer>
+        <p class="alt">
+          <em>Moving Worlds</em> is a biannual international magazine, and is a forum for creative work as well as criticism, literary as well as visual texts. Each issue highlights a particular theme and also carries material of general interest. The journal is internationally refereed and is published by <em>Moving Worlds</em> at the School of English, University of Leeds, UK, and School of Humanities and Social Sciences, NTU, Singapore.</p>
+      </footer>
+
+    </div> <!-- /container -->
+
+
+
+    {{{ google_prettify }}}
+    
+    
+    <div id="fb-root"></div>
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-15516813-1");
+    pageTracker._trackPageview();
+    } catch(err) {}
+
+    window.fbAsyncInit = function() {
+    FB.init({appId: '210512842326067', status: true, cookie: true,
+             xfbml: true});
+    }; // old ids 109740695775892, 146855128711860 
+    (function() {
+    var e = document.createElement('script');
+    e.type = 'text/javascript';
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_GB/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+    }());
+    </script>
+    
+    {{{ analytics }}}
+    
+    
+    
+    
+  </body>
+</html>

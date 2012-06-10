@@ -1,0 +1,38 @@
+---
+title: Familial &amp; Other Conversations: Special issue on Caryl Phillips
+date: '2007-5-01'
+description: ""
+categories:
+  - 'volume/7'
+  - 'issue'
+tags:
+ - BéNéDicte Ledent
+ - Dancing In The Dark
+ - Kathie Birat
+ - Stephen Clingman
+ - Vanessa Garcia
+ - BéNéDicte Ledent
+ - John Mcleod
+ - Caryl Phillips
+ - Abigail Ward
+ - Andrew Warnes
+ - Louise Yelin
+catalog: Volume 7 Number 1
+buying:
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1791&amp;deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1833&amp;deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1813&amp;deptid=26
+---
+
+<ul id="issue_contents">
+<li>Contents
+				<ul><li><h5>EDITORIAL</h5><ul><li><em>Bénédicte Ledent</em></li></ul></li><li><h5>INTERVIEW</h5><ul><li><em>Dancing in the Dark</em>: Caryl Phillips in Conversation with John McLeod</li></ul></li><li><h5>ARTICLES</h5><ul><li><em>Kathie Birat</em>, ‘Really no more than a report on one man’s way of seeing’:
+							<p>Caryl Phillips’s Non-fictional Works</p></li><li><em>Stephen Clingman</em>, ‘England Has Changed’:
+							<p>Questions of National Form in A Distant Shore</p></li><li><em>Vanessa Garcia</em>, The Almost-Miseducation of Vanessa Garcia</li><li><em>Bénédicte Ledent</em>, Caryl Phillips and the Caribbean as Multicultural
+							<p>Paradigm</p></li><li><em>John McLeod</em>, ‘Between two waves’: Caryl Phillips and Black Britain</li><li><em>Caryl Phillips</em>, A Familial Conversation</li><li><em>Abigail Ward</em>, An Outstretched Hand: Connection and Affiliation in 
+							<p><i>Crossing the River</i></p></li><li><em>Andrew Warnes</em>, Enemies Within: Diaspora and Democracy in 
+							<p><i>Crossing the River</i> and <i>A Distant Shore</i></p></li><li><em>Louise Yelin</em>, ‘Living State-side’: Caryl Phillips and the United States</li></ul></li><li><h5>REVIEWS</h5></li><li><h5>NOTES ON CONTRIBUTORS</h5></li>					
+					
+					
+				</ul></li>
+</ul>

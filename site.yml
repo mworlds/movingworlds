@@ -1,16 +1,18 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Moving Worlds
+tagline: A Journal of Transcultural Writings
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Moving Worlds
 
 navigation :
+  - index.html
+  - scope.md
   - archive.html
-  - tags.html
+  - submissions.md
+  - subscriptions.md
+  - editorial-team.md
+  - credits.md
+  - links.md
+  - purchase-online.md
+  - contact.md
   - categories.html
-  - pages.html
-  - about.md
   

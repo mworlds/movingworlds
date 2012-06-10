@@ -1,0 +1,155 @@
+/* menu styles */
+#menu ul
+{
+list-style-type: none;
+text-align: left;
+margin: 0;
+}
+
+#menu ul li a
+{
+background: transparent url(../media/list-off.gif) left center no-repeat;
+padding-left: 15px;
+text-align: left;
+font: normal 14px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+text-decoration: none;
+color: #999;
+}
+
+#menu ul li a:hover
+{
+background: transparent url(../media/list-on.gif) left center no-repeat;
+color: black;
+}
+
+#menu ul li.selected a
+{
+background: transparent url(../media/list-active.gif) left center no-repeat;
+color: #666;
+}
+
+/* editorial team */
+#editorial_team dt { font-weight: bold;}
+#editorial_team dd { display: block; }
+
+/* issue pages */
+
+
+/* subscriptions */
+#subscriptions dd { margin-bottom: 1em; margin-left: 0; }
+
+/* issue pages */
+ul#issue_contents, ul#issue_contents ul {margin-left : 0;}
+#issue_contents li { list-style: none; padding-bottom: 0.25em;}
+
+#issue_contents h5 {margin: 0;}
+
+#issue_contents li ul li { margin-bottom: 1em; }
+#issue_contents li ul li ul { margin-left: 0; }
+#issue_contents li ul li ul li { margin-bottom: 0; }
+
+#issue_contents p { margin: 0; margin-left: 2em; }
+
+#issue_contents em { text-transform: uppercase; font-style: normal;}
+
+/* header */
+div#header {  }
+
+div#logo-callout { margin: 0;  }
+
+footer { padding-top: 175px; background: transparent url('../media/combined_logos.jpg') no-repeat top left; }
+
+
+
+div#header h1 { margin-bottom: 0; }
+
+div#header h1 span { font-style: italic; font-family: serif;}
+
+div#links dd { margin-bottom: 1em; }
+
+a.external { 
+	padding-right: 12px; 
+	background: transparent url('../media/elements/external_link.gif') no-repeat right; 
+}
+a.pdf {
+	padding: 4px 20px 4px 0;
+	background: transparent url('../media/elements/page_pdf.png') no-repeat right;
+}
+
+a.email {
+	padding: 4px 20px 4px 0;
+	background: transparent url('../media/elements/email_link.png') no-repeat right;
+}
+
+
+
+#subscriptionAdvert {
+	height: 129px;
+	background: transparent url('../media/advert_logo.png') no-repeat 5px;
+	font-size: 10pt;
+	padding: 5px;
+}
+
+#subscriptionAdvert p {
+	padding: 10px 0px 0px 100px;
+}
+
+h1.frontPage {font-size: 2em;}
+
+body#contact .span-3 {
+  text-align: right;
+}
+
+#header a {
+  color: #000;
+  text-decoration: none;
+}
+
+#header a:hover {
+  text-decoration: none;
+}
+
+/* tag_box ======================================================== */
+
+.tag_box {
+  list-style:none;
+  margin:0;
+  padding:5px 0 ;
+  overflow:hidden;
+}
+.tag_box li {
+  line-height:28px;
+}
+.tag_box.inline li {
+  float:left;
+}
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color:#005F6B;
+  border-radius: 3px;
+  text-decoration:none;
+}
+.tag_box a span{
+  vertical-align:super;
+  font-size:0.8em;
+}
+.tag_box a.active {
+  background:#57A957;
+  border:1px solid #4C964D;
+  color:#FFF;
+}
+
+/* pagination ======================================================== */
+.pagination{height:36px;margin:18px 0;}
+.pagination ul{display:inline-block;*display:inline;*zoom:1;margin-left:0;margin-bottom:0;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 2px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 1px 2px rgba(0, 0, 0, 0.05);box-shadow:0 1px 2px rgba(0, 0, 0, 0.05);}
+.pagination li{display:inline;}
+.pagination a{float:left;padding:0 14px;line-height:34px;text-decoration:none;border:1px solid #ddd;border-left-width:0;}
+.pagination a:hover,.pagination .active a{background-color:#f5f5f5;}
+.pagination .active a{color:#999999;cursor:default;}
+.pagination .disabled span,.pagination .disabled a,.pagination .disabled a:hover{color:#999999;background-color:transparent;cursor:default;}
+.pagination li:first-child a{border-left-width:1px;-webkit-border-radius:3px 0 0 3px;-moz-border-radius:3px 0 0 3px;border-radius:3px 0 0 3px;}
+.pagination li:last-child a{-webkit-border-radius:0 3px 3px 0;-moz-border-radius:0 3px 3px 0;border-radius:0 3px 3px 0;}
+.pagination-centered{text-align:center;}
+.pagination-right{text-align:right;}
