@@ -1,5 +1,5 @@
 ---
-title: Locating the Caribbean
+title: Locating The Caribbean
 date: '2011-05-01'
 description: Almost fifty years after the dissolution of the Federation of the West Indies (1962), 'Locating the Caribbean' asks to what extent the notion still holds of Caribbean unity and, with it, a shared Caribbean cultural identity. The result - as is evident from the contents of the issue - is a cluster of lively and thought-provoking viewpoints, that range from the plainly dismissive to the searchingly sceptical to the quietly optimistic, and that often overlap or collide as they move between nation-state, region, and diaspora.
 categories: ['volumes/11', 'issues']

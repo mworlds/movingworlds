@@ -45,7 +45,7 @@ title: Subscriptions
 		    
 		    <dt>To purchase online please visit the <a href="https://store.leeds.ac.uk/browse/department.asp?compid=1&amp;modid=1&amp;deptid=26" title="University of Leeds online store" class="external">University of Leeds online store</a>:</dt>
 		    <dd>
-		      Additional links and information is available on the <a href="purchase_online.php">Purchase online</a> page
+		      Additional links and information is available on the <a href="/purchase-online">Purchase online</a> page
 		    </dd>
 		    
 		    
@@ -55,7 +55,7 @@ title: Subscriptions
 		     </dd><dd>
                        
 			</dd><dt>Downloadable order form (PDF format)</dt>
-			<dd><a href="downloads/Moving_Worlds_-_Order_Form.pdf" class="pdf">Download Moving Worlds order form</a></dd>
+			<dd><a href="{{urls.media}}/pdf//Moving_Worlds_-_Order_Form.pdf" class="pdf">Download Moving Worlds order form</a></dd>
 		
 		</dl>
 		

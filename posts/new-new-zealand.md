@@ -1,5 +1,5 @@
 ---
-title: New New zealand
+title: New New Zealand
 title-override: "'New' New Zealand"
 date: '2008-09-01'
 description: "This issue seeks to reflect recent trends in New Zealand literary and critical practice, in particular what the editors observe as a sense of detachment from traditional nationalistic imperatives. The issue is guided by the assumption that New Zealand cultural identity registers an uneasy cohabitation with the official biculturalism instituted in the 1980s, and through images generated as a consequence of the Lord of the Rings trilogy"
