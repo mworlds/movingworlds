@@ -1,9 +1,10 @@
 ---
-title: "Masquerade: Caribbean Issue"
+title: "Masquerade Caribbean Issue"
+title-override: "Masquerade: Caribbean Issue"
 date: '2003-9-01'
-description: ""
+description: "The contributions in this issue re-enact the dazzling array of colours and forms that are integral to the Caribbean masquerade. The issue’s specific concern is the re-reading and re-evaluation of Caribbean literature with attentiveness to the ‘lived realities’ of the region and to innovative experiments with language and form."
 categories:
-  - 'volume/3'
+  - 'volumes/3'
   - 'issue'
 tags:
  - Shirley Chew
@@ -26,9 +27,9 @@ tags:
  - Gemma Robinson
 catalog: Volume 3 Number 2
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1784&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1826&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1806&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1784&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1826&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1806&deptid=26
 ---
 
 <ul id="issue_contents">

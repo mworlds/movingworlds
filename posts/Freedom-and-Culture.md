@@ -1,9 +1,10 @@
 ---
-title: Freedom and Culture: The Bicentenary of the Parliamentary Abolition of the Slave Trade
+title: "Freedom and Culture"
+title-override: "Freedom and Culture: The Bicentenary of the Parliamentary Abolition of the Slave Trade"
 date: '2007-9-01'
-description: ""
+description: "This issue celebrates the bicentenary of the parliamentary abolition of the slave trade. The essays, prose pieces and poetry remind us that only by re-engaging with the past and working through its traumas can we hope to refashion the future. The issue suggests that the significance of the 2007 commemorations must be that they (re)direct us to addressing the violent and corrupting realities of contemporary life."
 categories:
-  - 'volume/7'
+  - 'volumes/7'
   - 'issue'
 tags:
  - Shirley Chew
@@ -25,9 +26,9 @@ tags:
  - Shirley J. Thompson
 catalog: Volume 7 Number 2
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1792&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1834&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1814&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1792&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1834&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1814&deptid=26
 ---
 
 <ul id="issue_contents">

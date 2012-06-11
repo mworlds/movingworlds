@@ -21,7 +21,7 @@ buying:
                     <li><em>Zygmunt Bauman</em>, The Triple Challenge</li>
                     <li><em>Étienne Balibar</em>, Ideas of Europe: Civilization and Constitution</li>
                     <li><em>Paul Gilroy</em>, Shameful History: The Social Life of Races and the Postcolonial Archive</li>
-                    <li><em>Simon Glendinning</em>, ‘Europe, for example&amp;rsquo</li>
+                    <li><em>Simon Glendinning</em>, 'Europe, for example'</li>
                     <li><em>Luisa Passerini</em>, The Ethics of European Memory: What is to be Done?</li>
                     <li><em>Max Silverman</em>, Hybrid Memory in the City</li>
                     <li><em>Sandra Ponzanesi</em>, Europe Adrift: Rethinking Borders, Bodies, and

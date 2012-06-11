@@ -1,28 +1,29 @@
 ---
 title: Postcolonial Ireland 
 date: '2003-5-01'
-description: ""
+description: "This issue considers a range of approaches to the ways in which Ireland is represented, imagined, located and theorized within a postcolonial framework. The articles and poetry contained reflect the tensions inherent in the Irish attempts at decolonization in the early twentieth century."
 categories:
-  - 'volume/3'
+  - 'volumes/3'
   - 'issue'
 tags:
- - Stuart Murray &amp; Fiona Becket
- - Aidan Arrowsmith
- - Maeve Connolly
- - SiobháN Holland
- - Wei H. Kao
- - Declan Kiberd
- - P.J. Mathews
- - Paul Murphy
- - EiléAn Ní ChuilleanáIn
- - Gerald Dawe
- - Richard Dyer
- - Brendan Kennelly
+  - 'Stuart Murray'
+  - 'Fiona Becket'
+  - 'Aidan Arrowsmith'
+  - 'Maeve Connolly'
+  - 'SiobháN Holland'
+  - 'Wei H. Kao'
+  - 'Declan Kiberd'
+  - 'P.J. Mathews'
+  - 'Paul Murphy'
+  - 'EiléAn Ní ChuilleanáIn'
+  - 'Gerald Dawe'
+  - 'Richard Dyer'
+  - 'Brendan Kennelly'
 catalog: Volume 3 Number 1
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1783&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1825&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1804&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1783&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1825&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1804&deptid=26
 ---
 
 <ul id="issue_contents">

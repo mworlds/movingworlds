@@ -11,7 +11,7 @@ layout: default
 	  <h3>{{title}}</h3>
 	  <a href="{{url}}">
   			<img src="{{urls.media}}/volumes/{{title}}__Cover.jpg">
-  			<h6>Volume 11 Number 2</h6>
+  			<h6>{{catalog}}</h6>
   			<p>{{title}}</p>
   	</a>
 	
@@ -33,7 +33,7 @@ layout: default
 </div>
 
 
-<div class="span-10 last">
+<div id="previous-issues" class="span-10 last">
   <h3>Previous Issues</h3>
 
   {{# posts?to_previous_issues }}

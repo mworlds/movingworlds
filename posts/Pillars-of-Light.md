@@ -1,9 +1,10 @@
 ---
-title: Pillars of Light: Exploring Muslim Cultures
+title: "Pillars of Light"
+title-override: "Pillars of Light: Exploring Muslim Cultures"
 date: '2008-5-01'
-description: ""
+description: "The issue builds upon the explorations undertaken by Pillars of Light: Exploring Muslim Cultures, a Yorkshire-wide programme which contributed knowledge of the richness and diversity of Muslim cultures across time. The contributors are about 'conversations', the voices and words of writers and critics as they search for answers to questions of faith politics, identity, art, artisitic freedom and survival."
 categories:
-  - 'volume/8'
+  - 'volumes/8'
   - 'issue'
 tags:
  - Shirley Chew
@@ -30,9 +31,9 @@ tags:
  - Kadija Sesay
 catalog: Volume 8 Number 1
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1793&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1835&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1815&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1793&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1835&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1815&deptid=26
 ---
 
 <ul id="issue_contents">

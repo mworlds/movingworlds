@@ -1,27 +1,28 @@
 ---
-title: Familial &amp; Other Conversations: Special issue on Caryl Phillips
+title: "Familial And Other Conversations"
+title-override: "Familial & Other Conversations: Special issue on Caryl Phillips"
 date: '2007-5-01'
-description: ""
+description: "A special issue that examines different facets of Caryl Phillips’s writing and which includes a contribution by Phillips himself entitled ‘A Familial Conversation’. The issue considers his fiction, non-fiction, his complex identity involving African, Britain, the Caribbean and the United States and his approach to form. The critical essays engage in conversations about family, human life, diaspora, fictional form, time and space and cultural positionality."
 categories:
-  - 'volume/7'
+  - 'volumes/7'
   - 'issue'
 tags:
- - BéNéDicte Ledent
- - Dancing In The Dark
- - Kathie Birat
- - Stephen Clingman
- - Vanessa Garcia
- - BéNéDicte Ledent
- - John Mcleod
- - Caryl Phillips
- - Abigail Ward
- - Andrew Warnes
- - Louise Yelin
+  - 'BéNéDicte Ledent'
+  - 'Dancing In The Dark'
+  - 'Kathie Birat'
+  - 'Stephen Clingman'
+  - 'Vanessa Garcia'
+  - 'BéNéDicte Ledent'
+  - 'John Mcleod'
+  - 'Caryl Phillips'
+  - 'Abigail Ward'
+  - 'Andrew Warnes'
+  - 'Louise Yelin'
 catalog: Volume 7 Number 1
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1791&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1833&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1813&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1791&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1833&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1813&deptid=26
 ---
 
 <ul id="issue_contents">

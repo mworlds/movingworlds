@@ -13,6 +13,20 @@ categories:
   - 'social glue'
   - 'Middle East'
   - 'Eastern Europe'
+tags:
+ - John Siddique
+ - Shamshad Khan
+ - Moniza Alvi
+ - Basir Sultan Kazmi
+ - Ian Duhig
+ - Tanya Chan-Sam
+ - John Whale
+ - Danielle Fuller And James Procter
+ - Renuka Rajaratnam
+ - Sarah Gibson
+ - Kate Pahl With Andy Pollard And Zafir Rafiq
+ - Debjani Chatterjee
+ - Lucy Evans
 
 catalog: Volume 9 Number 2
 buying:

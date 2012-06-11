@@ -1,9 +1,10 @@
 ---
-title: Postcolonial Cities: Africa
+title: "Postcolonial Cities Africa"
+title-override: "Postcolonial Cities: Africa"
 date: '2005-5-01'
-description: ""
+description: "This special issue on African cities is alert to the contradictions intrinsic to the contemporary Afriocan urban experience. The essays and creative writings explore urban growth, Casablanca, post-apartheid South Africa, and the cruelty, corruption and failure of the post-colonial city."
 categories:
-  - 'volume/5'
+  - 'volumes/5'
   - 'issue'
 tags:
  - David Richards
@@ -25,9 +26,9 @@ tags:
  - Cheryl Stobie
 catalog: Volume 5 Number 1
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1787&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1829&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1809&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1787&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1829&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1809&deptid=26
 ---
 
 <ul id="issue_contents">

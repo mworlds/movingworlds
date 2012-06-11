@@ -1,9 +1,9 @@
 ---
 title: Alien-Nation
 date: '2004-9-01'
-description: ""
+description: "A collection of wide-ranging articles on writers from Mozambique, New Zealand, Tamil Nadu, Canada and East Africa."
 categories:
-  - 'volume/4'
+  - 'volumes/4'
   - 'issue'
 tags:
  - Jamal Mahjoub
@@ -21,13 +21,14 @@ tags:
  - Stephanie Jones
  - Maria Cristina Savioli
  - Tony Simoes Da Silva
- - Jane Stafford And Mark Williams
+ - Jane Stafford
+ - Mark Williams
  - Emma Tarlo
 catalog: Volume 4 Number 2
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1786&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1828&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1808&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1786&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1828&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1808&deptid=26
 ---
 
 <ul id="issue_contents">

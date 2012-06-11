@@ -1,9 +1,9 @@
 ---
 title: Performing Arts and South Asian Literature
 date: '2005-9-01'
-description: ""
+description: "The essays in this volume discuss the key roles that song, dance, theatre, film, and television drama play in current debates on nation, identity, and cross-cultural translation, and their interactive relationship with modern prose fiction in the South Asian context"
 categories:
-  - 'volume/5'
+  - 'volumes/5'
   - 'issue'
 tags:
  - Shirley Chew
@@ -26,9 +26,9 @@ tags:
  - Alex Tickell
 catalog: Volume 5 Number 2
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1788&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1830&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1810&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1788&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1830&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1810&deptid=26
 ---
 
 <ul id="issue_contents">

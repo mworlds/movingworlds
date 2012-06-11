@@ -1,14 +1,15 @@
 ---
 title: Routes
 date: '2002-5-01'
-description: ""
+description: "This issue includes nine critical essays on the work of V.S Naipaul who turned 70 in 2002, when this issue was published. It also includes new work by prose writers and poets from Britain, Nigeria, India, Singapore, Australia and Canada."
 categories:
-  - 'volume/2'
+  - 'volumes/2'
   - 'issue'
 tags:
  - Shirley Chew
  - Paula Burnett
- - Michael Gorra &amp; James Wood
+ - Michael Gorra
+ - James Wood
  - Feroza Jussawalla
  - John Mcleod
  - Meenakshi Mukherjee
@@ -28,9 +29,9 @@ tags:
  - Kyra Vladykov-Fisher
 catalog: Volume 2 Number 1
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1781&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1823&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1800&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1781&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1823&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1800&deptid=26
 ---
 
 <ul id="issue_contents">

@@ -1,9 +1,9 @@
 ---
 title: Reflections
 date: '2002-9-01'
-description: ""
+description: "This issue explores the commitment to literature and art as reflecting, and reflecting back us back to, lived experience, and hence to seeing things anew. The essays and creative contributions both urge the need for a critical re-engagement with history and narrative, given an increasingly imperialistic tendency among many post-independence nations to rewrite and take possession of the past as a means of legitimizing power."
 categories:
-  - 'volume/2'
+  - 'volumes/2'
   - 'issue'
 tags:
  - Shirley Chew
@@ -24,9 +24,9 @@ tags:
  - Briar Wood
 catalog: Volume 2 Number 2
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1782&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1824&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1802&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1782&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1824&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1802&deptid=26
 ---
 
 <ul id="issue_contents">

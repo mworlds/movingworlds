@@ -1,9 +1,10 @@
 ---
-title: Food, Culture, and Community
+title: Food Culture and Community
+title-override: Food, Culture, and Community
 date: '2006-9-01'
-description: ""
+description: "The essays in this volume are indebted to Alan Davidson's seminal work on food culture and gastronomy. They discuss the role played by food in community building, ceremony, festival, celebration,daily meals and forage, and explore the profoundly cohesive memory work of eating."
 categories:
-  - 'volume/6'
+  - 'volumes/6'
   - 'issue'
 tags:
  - Lynette Hunter
@@ -29,9 +30,9 @@ tags:
  - Caroline Davidson
 catalog: Volume 6 Number 2
 buying:
-  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=265&amp;modid=1&amp;prodid=1790&amp;deptid=26
-  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=264&amp;modid=1&amp;prodid=1832&amp;deptid=26
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&amp;catid=263&amp;modid=1&amp;prodid=1812&amp;deptid=26
+  unwaged: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=265&modid=1&prodid=1790&deptid=26
+  individuals: https://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=264&modid=1&prodid=1832&deptid=26
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&catid=263&modid=1&prodid=1812&deptid=26
 ---
 
 <ul id="issue_contents">

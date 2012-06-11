@@ -3,6 +3,18 @@ title: Critical Perspectives
 date: '2010-08-01'
 description: This issue examines Michael Ondaatje’s fiction, poetry and films from fresh and interesting angles. The critical essays that make up the issue put us in touch with a powerful subtle and humane imagination that translates itself in versatile ways into the themes, characters and poetics of Ondaatje’s work.
 categories: ['volumes/10', 'issues']
+tags:
+ - Robert J.C. Young
+ - Milena Marinkova
+ - Catherine Bates
+ - Jeffrey D. Orr
+ - Aparna Halpé
+ - Gail Jones
+ - Gillian Roberts
+ - Chandani Lokuge
+ - Ashley Halpé
+ - Natalie Diebschlag
+ - Aritha Van Herk
 catalog: Volume 10 Number 2
 ---
 
