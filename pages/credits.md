@@ -10,4 +10,4 @@ title: Credits
 		
 <hr class="space">
 
-<p>We wish to thank all <a href="contributors">contributors</a> to the journal (past, present and future).</p>
+<p>We wish to thank all <a href="/contributors">contributors</a> to the journal (past, present and future).</p>

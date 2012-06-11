@@ -22,16 +22,8 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <!-- Le styles -->
     {{{ assets }}} 
 
-    <!-- Le fav and touch icons -->
-  <!-- Update these with your own images
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-  -->
   </head>
 
   <body>
@@ -53,7 +45,7 @@
           <ul>
           {{# site.navigation?to_pages }}
           
-             <li {{# is_active_page }} class="selected" {{/ is_active_page }}><a href="{{url}}">{{title}}</a></li>
+             <li{{# is_active_page }} class="selected"{{/ is_active_page }}><a href="{{url}}">{{title}}</a></li>
            {{/ site.navigation?to_pages }}
           </ul>
         </div>
@@ -70,23 +62,12 @@
 
     </div> <!-- /container -->
 
-
-
     {{{ google_prettify }}}
-    
     
     <div id="fb-root"></div>
 
     <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-    try {
-    var pageTracker = _gat._getTracker("UA-15516813-1");
-    pageTracker._trackPageview();
-    } catch(err) {}
-
+    
     window.fbAsyncInit = function() {
     FB.init({appId: '210512842326067', status: true, cookie: true,
              xfbml: true});
@@ -102,9 +83,5 @@
     </script>
     
     {{{ analytics }}}
-    
-    
-    
-    
   </body>
 </html>

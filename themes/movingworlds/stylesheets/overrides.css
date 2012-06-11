@@ -157,6 +157,7 @@ body#contact .span-3 {
 .pagination-right{text-align:right;}
 
 
+/* article front-matter ============================================== */
 div#front-matter h2 { font-size: 12px; font-weight: bold; }
 div#front-matter h1 {font-size: 18px; }
 div#front-matter li strong {  text-transform: uppercase; font-style: normal; font-weight: normal;}
@@ -164,3 +165,17 @@ div#front-matter li { display: block; list-style-type: none; }
 div#front-matter ul {margin-left: 0;}
 div#front-matter li p:first-child { margin-bottom: 0; margin-top: 10px}
 div#front-matter li p:nth-child(n+2) {  padding:0; margin-left:20px; }
+div#front-matter blockquote {
+  float: right;
+  display: block;
+  width: 50%;
+  background: #CCC;
+  color: #000;
+  padding: 10px;
+  padding-left: 20px;  
+}
+div#front-matter blockquote p:first-child::before {
+  content: '\201C';
+  font-size: 40px;
+  margin-left: -18px;
+}

@@ -8,7 +8,17 @@ layout: default
 	
 	{{# posts_latest }}
 	
+	  {{^ title-override}}
 	  <h3>{{title}}</h3>
+	  {{/ title-override }}
+
+	  {{# title-override}}
+	  <h3>{{ . }}</h3>
+	  {{/ title-override}}
+
+	  {{# description }}
+	  <p>{{ . }}</p>
+	  {{/ description }}
 	  <a href="{{url}}">
   			<img src="{{urls.media}}/volumes/{{title}}__Cover.jpg">
   			<h6>{{catalog}}</h6>

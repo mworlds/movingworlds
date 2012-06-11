@@ -2,7 +2,7 @@
 title: Configuring Sport
 title-override: (Con)figuring Sport
 date: '2012-06-01'
-description: 
+description: "Issue 12.1 explores the ways in which sporting endeavours offer writers and artists an opportunity to reflect upon the conflicts, tensions and cultural transformations which sport configures."
 categories: ['volumes/12', 'issues']
 catalog: Volume 12 Number 1
 tags:
@@ -28,12 +28,6 @@ tags:
   - Clare Barker
   - Corinne Fowler
 ---
-
-> 'The relationship between sporting success and the supposedly successful integration of immigrant minorities has gained even greater prominence since France’s victory in the 1998 World Cup Final.'
-> 
-> From ‘When Symbols Start to Speak’
-> 
->    **by David Murphy**
 
 # CONTENTS
 
@@ -78,6 +72,12 @@ tags:
 - **David Murphy**,  When Symbols Start to Speak: Lilian Thuram and 
     
     the French Identity Debates
+
+    > The relationship between sporting success and the supposedly successful integration of immigrant minorities has gained even greater prominence since France’s victory in the 1998 World Cup Final.
+    > 
+    > From ‘When Symbols Start to Speak’
+    > 
+    >    **by David Murphy**
 
 - **Supriya Chaudhuri**, Literary Modernism and Subaltern Sport
 
