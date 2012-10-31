@@ -11,14 +11,18 @@ buying:
 ---
 
 <ul id="issue_contents">
-    <li>Contents
-        <ul>
-            <li><h5>EDITORIAL</h5>
-                <ul><li>Graham Huggan</li></ul>
-            </li>
-            <li><h5>ARTICLES</h5>
-                <ul>
-                    <li><em>Zygmunt Bauman</em>, The Triple Challenge</li>
+<li>Contents
+<ul>
+<li>
+<h5>EDITORIAL</h5>
+<ul>
+<li>Graham Huggan</li>
+</ul>
+</li>
+<li>
+<h5>ARTICLES</h5>
+<ul>
+<li><em>Zygmunt Bauman</em>, The Triple Challenge</li>
                     <li><em>Étienne Balibar</em>, Ideas of Europe: Civilization and Constitution</li>
                     <li><em>Paul Gilroy</em>, Shameful History: The Social Life of Races and the Postcolonial Archive</li>
                     <li><em>Simon Glendinning</em>, 'Europe, for example'</li>
