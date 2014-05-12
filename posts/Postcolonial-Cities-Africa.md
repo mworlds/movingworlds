@@ -6,6 +6,9 @@ description: "This special issue on African cities is alert to the contradiction
 categories:
   - 'volumes/5'
   - 'issue'
+  - 'Postcolonial'
+  - 'Postcolonial Cities'
+  - 'Africa'
 tags:
  - David Richards
  - Brendon Nicholls

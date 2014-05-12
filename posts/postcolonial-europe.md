@@ -2,7 +2,7 @@
 title: Postcolonial Europe
 date: '2011-09-01'
 description: The critical essays in this volume reflect the duality of postcolonial Europe as, on the one hand, a site of rising xenophobia and exclusion, and of convivial inclusiveness and transcultural aperture on the other.
-categories: ['volumes/11', 'issues', 'Sociology','Europe','Critical theory','Law','Social sciences','Humanities','Asia']
+categories: ['volumes/11', 'issues', 'Sociology','Europe','Critical theory','Law','Social sciences','Humanities','Asia','Postcolonial']
 catalog: Volume 11 Issue 2
 buying:
   unwaged: http://store.leeds.ac.uk/browse/extra_info.asp?modid=1&prodid=2643&deptid=26&compid=1&prodvarid=0&searchresults=1

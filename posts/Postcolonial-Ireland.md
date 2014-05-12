@@ -5,6 +5,8 @@ description: "This issue considers a range of approaches to the ways in which Ir
 categories:
   - 'volumes/3'
   - 'issue'
+  - 'Postcolonial'
+  - 'Postcolonial Ireland'
 tags:
   - 'Stuart Murray'
   - 'Fiona Becket'

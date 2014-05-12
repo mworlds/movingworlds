@@ -32,6 +32,6 @@ title: Editorial Team
 
 		<dt>Production:</dt> <dd>Glenda Pattenden</dd> 
 
-		<dt>Editorial Assistants:</dt> <dd>Natalie Diebschlag</dd>
+		<dt>Editorial Assistants:</dt> <dd>Michelle Chiang</dd>
 
 		</dl>
