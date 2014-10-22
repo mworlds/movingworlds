@@ -10,9 +10,9 @@ categories:
   - 'Africa'
   - 'African Arts'
 buying:
-  unwaged: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=1&deptid=26&catid=265&prodid=4080
-  individuals: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=1&deptid=26&catid=264&prodid=4078
-  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=1&deptid=26&catid=263&prodid=4079
+  unwaged: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=1&deptid=26&catid=265&prodid=4543
+  individuals: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=1&deptid=26&catid=264&prodid=4542
+  institutions: http://store.leeds.ac.uk/browse/extra_info.asp?compid=1&modid=1&deptid=26&catid=263&prodid=4540
 catalog: Volume 14 Number 1
 tags:
   - MADHUSREE DUTTA
