@@ -5,18 +5,18 @@ layout: default
 ---
 
 <div class="span-8 colborder">
-    
+
     <p>
-    Moving Worlds is a Journal of Transcultural Writings, edited by Emeritus Professor Shirley Chew. It is both sustained by a sense of history - Leeds's pioneering role in Commonwealth literary studies - and attuned to current developments in the nominally post-imperial world. The journal, steering a path between Commonwealth literary and postcolonial cultural studies, gives space to a wide variety of transcultural writings that engage with the complexities of the modern globalised world. 
+    Moving Worlds is a Journal of Transcultural Writings, edited by Emeritus Professor Shirley Chew. It is both sustained by a sense of history - Leeds's pioneering role in Commonwealth literary studies - and attuned to current developments in the nominally post-imperial world. The journal, steering a path between Commonwealth literary and postcolonial cultural studies, gives space to a wide variety of transcultural writings that engage with the complexities of the modern globalised world.
         </p>
-    
-        <p>Impelled by the global movement of peoples, cultures and ideas across delimiting national boundaries, the journal has rapidly become an important forum for new creative and critical work that explores the changing relationship between the global and the local; the search for alternative forms of citizenship and belonging; and the development of new 'border-crossing' aesthetic structures and forms. 
+
+        <p>Impelled by the global movement of peoples, cultures and ideas across delimiting national boundaries, the journal has rapidly become an important forum for new creative and critical work that explores the changing relationship between the global and the local; the search for alternative forms of citizenship and belonging; and the development of new 'border-crossing' aesthetic structures and forms.
             </p>
             <p>The journal has attracted writers and critics of outstanding quality from all over the world, from Wole Soyinka to Shashi Deshpande; from Romesh Gunesekera to Randolph Stow; from Erna Brodber to Aritha van Herk. Like other postcolonial initiatives at Leeds, it is both a celebration of local cultural diversity and a critical enquiry into the global forces that drive our contemporary world.
     </p>
-    
+
 	{{# posts_latest }}
-	
+
 	  {{^ title-override}}
 	  <h3>{{title}}</h3>
 	  {{/ title-override }}
@@ -33,17 +33,16 @@ layout: default
   			<h6>{{catalog}}</h6>
   			<p>{{title}}</p>
   	</a>
-	
+
 	{{/ posts_latest}}
-	
+
 	<p><fb:like-box href="http://www.facebook.com/pages/Moving-Worlds/146855128711860" width="331" show_faces="true" border_color="" stream="true" header="true"></fb:like-box></p>
-	
+
 	<hr>
-		
+
 	<h3>Future Issues</h3>
   <p class="alt top last">(All titles subject to confirmation)</p>
    <ul>
-       <li>Translating Southeast Asia</li>
        <li>Postcolonial Arctic</li>
        <li>Centenary Issue of Easter Rising</li>
     </ul>
@@ -55,13 +54,13 @@ layout: default
   <h3>Previous Issues</h3>
 
   {{# posts?to_previous_issues }}
-    
+
   <div class="span-3">
   	<a href="{{url}}" title="{{title}}">
   	  <img src="{{urls.media}}/volumes/{{title}}.jpg">
   	</a>
   </div>
-  
+
   {{/ posts?to_previous_issues }}
 
   <hr class="space">

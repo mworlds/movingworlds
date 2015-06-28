@@ -1,7 +1,7 @@
 ---
 title: Conferences
 date: '2013-06-14'
-categories: 
+categories:
 - Conferences
 - Music
 - Singapore
@@ -13,6 +13,14 @@ categories:
 - "Liberal arts"
 - "Nanyang Technological University"
 ---
+
+<h1>Conference Notice</h1>
+
+<p>Moving Worlds regularly appears at UK postcolonial studies conferences, events, and literary festivals. Check with your event organiser if Moving Worlds is coming to an event near you soon, and keep up to date with us on <a href="https://www.facebook.com/pages/Moving-Worlds/146855128711860">our Facebook page</a>.</p>
+
+<p>If you would like Moving Worlds to appear at your forthcoming event, <a href="mailto:mworlds@leeds.ac.uk">please email</a>.</p>
+
+<hr />
 
 <h1>Transcultural Imaginaries<br/ > Making New, Making Strange</h1>
 
@@ -29,7 +37,7 @@ and<br/>
 
 Neil Murphy, Shirley Chew, Jennifer Crawford, Daniel Jernigan, Lim Lee Ching, Bede Scott
 
-Transcultural Imaginaries, an international multidisciplinary conference, celebrates Moving Worlds: A Journal of Transcultural Writings. Devoted to creative work as well as criticism, literary as well as visual forms of representation from different cultural traditions, writing in scholarly and more personal modes, in English and translations into English, the Journal began life in 2001 in Leeds and the UK, and has, since 2011 and in rhizome fashion, put down fresh roots in Singapore. Co-published today by the University of Leeds and Nanyang Technological University, Moving Worlds is sustained by more than a dozen years of established and significant connections; at the same time, with its current proximity to Asia, South and Southeast Asia, and the Pacific region, it looks forward to representing new work, perspectives, and issues, and the exciting challenges this will bring. 
+Transcultural Imaginaries, an international multidisciplinary conference, celebrates Moving Worlds: A Journal of Transcultural Writings. Devoted to creative work as well as criticism, literary as well as visual forms of representation from different cultural traditions, writing in scholarly and more personal modes, in English and translations into English, the Journal began life in 2001 in Leeds and the UK, and has, since 2011 and in rhizome fashion, put down fresh roots in Singapore. Co-published today by the University of Leeds and Nanyang Technological University, Moving Worlds is sustained by more than a dozen years of established and significant connections; at the same time, with its current proximity to Asia, South and Southeast Asia, and the Pacific region, it looks forward to representing new work, perspectives, and issues, and the exciting challenges this will bring.
 
 Taking a cue from the Journal’s title, the central theme of the Conference is the transcultural, that is, the movement of cultures across regional, national, and international boundaries, and the diverse and rich transformations resulting from these crisscrossings. It explores newness and experimentation in areas such as literature, theatre, film, visual and practical arts, music, architecture; and the political, social, and economic contexts of these transcultural achievements. It investigates key issues such as the extent to which globalization has made possible significant innovations in the arts; the interrelationship between the indigenous and the global; the continuing claims of the past and tradition upon interpretations of our present world and lives. It speaks critically to specific literary texts/films/artworks; and to individual writers, artists, film-makers, and relevant theorists.
 
