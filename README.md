@@ -1,5 +1,6 @@
 Build the source using the following:
 
+    Run compile.sh, or
     bundle exec ruhoh compile
 
 View the site using:
