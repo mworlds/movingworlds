@@ -30,6 +30,8 @@ categories:
   <h3>Division of English, NTU</h3>
 </div>
 
+This event is associated with our forthcoming issue 17. 1 ‘World Gardens and Gardens in the World.
+
 Please see the [conference page at the Nanyang Technological University](http://www.hss.ntu.edu.sg/Programmes/english/spontaneousbeauties/Pages/Home.aspx) for more information.
 
 <hr />
