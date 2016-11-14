@@ -20,20 +20,5 @@ categories:
 
 <hr />
 
-<h1>&ldquo;Spontaneous Beauties&rdquo;? <br />World Gardens and Gardens in the World</h1>
-
-<div style="text-align: center">
-  <h2>10&mdash;12 June 2016</h3>
-  <p>Organized by<br />
-  <h3>The Division of English, Nanyang Technological University (NTU), Singapore
-  Venue: School of Humanities and Social Sciences, NTU, Singapore<br/>
-  <h3>Division of English, NTU</h3>
-</div>
-
-This event is associated with our forthcoming issue 17. 1 ‘World Gardens and Gardens in the World.
-
-Please see the [conference page at the Nanyang Technological University](http://www.hss.ntu.edu.sg/Programmes/english/spontaneousbeauties/Pages/Home.aspx) for more information.
-
-<hr />
 
 Visit us on [Facebook](https://www.facebook.com/movingworldsconference) or at the [conference portal](http://portal.cohass.ntu.edu.sg/TransculturalImaginaries/)
