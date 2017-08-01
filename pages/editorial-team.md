@@ -3,11 +3,11 @@ title: Editorial Team
 ---
 
 <dl>
-		<dt>General Editors:</dt> 
-		<dd>Shirley Chew, Stuart Murray</dd> 
+		<dt>General Editors:</dt>
+		<dd>Shirley Chew, Stuart Murray</dd>
 
 		<dt>Editorial Board:</dt> <dd>Fiona Becket, Sam Durrant, Lynette Hunter, John McLeod, Neil Murphy, Brendon Nicholls, Jane Plastow, Wai-chew Sim</dd>
-		
+
 		<dt>Advisory Board:</dt>
 		<dd>
 		    Martin Banham,
@@ -15,7 +15,7 @@ title: Editorial Team
             Elleke Boehmer,
             Susan Burns,
             Denise deCaires Narain,
-            Romesh Gunesekera, 
+            Romesh Gunesekera,
             Githa Hariharan,
             Salima Hashmi,
             Elaine Ho,
@@ -30,8 +30,8 @@ title: Editorial Team
             Mark Williams
 		</dd>
 
-		<dt>Production:</dt> <dd>Glenda Pattenden</dd> 
+		<dt>Production:</dt> <dd>Glenda Pattenden</dd>
 
-		<dt>Editorial Assistants:</dt> <dd>Lucy Arnold</dd>
+		<dt>Editorial Assistant:</dt> <dd>Emily Kate Timms</dd>
 
 		</dl>
